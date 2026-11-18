@@ -1,4 +1,4 @@
 guincorn
 Flask
-joblist
+joblib
 scikit-learn
